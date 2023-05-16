@@ -12,3 +12,5 @@ print("New editing.")
 
 ### conflict test again
 print("conflict")
+
+print("我还是主分支")
